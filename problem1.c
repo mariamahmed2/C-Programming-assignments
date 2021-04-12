@@ -1,3 +1,6 @@
+/* Program to take 5 digits integer from the user, reverse and add them
+   without using any loops */
+
 #include <stdio.h>
 
 
