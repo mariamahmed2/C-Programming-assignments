@@ -1,3 +1,6 @@
+/* Given a 3x3 Matrix input from the user, calculate the absolute difference between the sums of its diagonals */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
