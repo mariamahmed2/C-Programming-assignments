@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Program to take from the user 5 digits and reverse its digits*/
+
 int main()
 {
     int number;
